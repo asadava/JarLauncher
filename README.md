@@ -7,7 +7,7 @@
 - Paste them both in
 - It's now opened!
 ## Is there a way to skip the process of adding in my .javaw path?
-- Open the .bat file
+- Open the .bat file (using notepad or your preferred code editor)
 - Remove the "/p" in the first variable
 - ![remove the p](https://github.com/asadava/JarLauncher/blob/main/imgs/img1.png)
 - Replace the text after the equal sign with your path in quotation marks (there's gonna be 2 quotation marks, but that's normal (and nessecary!))
